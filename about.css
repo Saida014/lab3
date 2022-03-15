@@ -1,0 +1,32 @@
+* {
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.middle {
+    width: 100%;
+   
+    float: left;
+    height: 500px;
+  
+    
+}
+
+.middle div h1 {
+    text-align: center;
+
+}
+
+h1 {
+    padding: 10px;
+}
+
+.middle img {
+    margin:20px;
+    float: left;
+}
+
+
